@@ -74,11 +74,12 @@
 
 	/* direct messages moon icon */
 	/* change to block to show, none to hide */
-	--discord-icon: none; /* discord icon */
-	--moon-icon: none; /* moon icon */
-	--moon-icon-url: none; /* custom icon url */
-	--moon-icon-size: auto;
-
+	/* --discord-icon: none; /* discord icon 
+	--moon-icon: none; /* moon icon 
+	--moon-icon-url: none; /* custom icon url 
+	--moon-icon-size: auto; 
+	*/
+	
 	/* filter uncolorable elements to fit theme */
 	/* (just set to none, they're too much work to configure) */
 	--login-bg-filter: none; /* login background artwork */
